@@ -1,0 +1,14 @@
+{
+"app_kew_words":
+{
+    "client_id":"c4d0642e6fa84b1f937c7d24bf907424",
+    "secret_id":"82883f209f3f423f85b2ab17f593c8c8"
+},
+"scopes": ["user-top-read"],
+"redirect_URI": "http://localhost:8080", 
+"server": "localhost", 
+"port": 8080,
+"authorize_base_url": "https://accounts.spotify.com",
+"acces_code_endpoint": "/authorize",
+"token_end_point": "/api/token"
+}
