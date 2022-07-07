@@ -1,10 +1,10 @@
 {
 "app_kew_words":
 {
-    "client_id":"c4d0642e6fa84b1f937c7d24bf907424",
-    "secret_id":"82883f209f3f423f85b2ab17f593c8c8"
+    "client_id":"my_client_id",
+    "secret_id":"my_secret_id"
 },
-"scopes": ["user-top-read"],
+"scopes": ["scope of interes 1", "scope of interes 2"],
 "redirect_URI": "http://localhost:8080", 
 "server": "localhost", 
 "port": 8080,
