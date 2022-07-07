@@ -10,7 +10,7 @@ To interact with the spotify Web API at any level you must register as a spotify
 
 * Include the scopes your interested in explore as a list of strings; documentation [Here](https://developer.spotify.com/documentation/general/guides/authorization/scopes/)
 
-* Include an URI to where the API will responde with the acces code
+* Include an URI to where the API will responde with the acces code.
 
 The objective of catch_accesAndToken.py is to provide a class acces_code in order to acces user related data and a class token thats works either for athorization code flow or client code flow.
 
