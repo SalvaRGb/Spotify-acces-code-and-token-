@@ -4,7 +4,7 @@
     "client_id":"my_client_id",
     "secret_id":"my_secret_id"
 },
-"scopes": ["scope of interes 1", "scope of interes 2"],
+"scopes": ["scope of interes 1", "scope of interes 2", ...],
 "redirect_URI": "http://localhost:8080", 
 "server": "localhost", 
 "port": 8080,
